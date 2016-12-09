@@ -9,7 +9,7 @@ public class Solution
     public static void main(String[] args)
     {
 
-        System.out.println("08 12 ");
+        System.out.println("08 12 2016");
         //напишите тут ваш код
     }
 }
